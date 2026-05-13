@@ -69,7 +69,8 @@ A modern Salesforce Lightning Web Component (LWC) solution for seamless event ma
 - Instant attendee validation
 - Duplicate check-in prevention
 
-![QR Check-In](screenshots/checkin.png)
+<img width="1894" height="746" alt="image" src="https://github.com/user-attachments/assets/699628e2-5c20-412b-9917-b1adabd79c37" />
+
 
 ---
 
@@ -78,7 +79,7 @@ A modern Salesforce Lightning Web Component (LWC) solution for seamless event ma
 - Event analytics
 - Registration overview
 
-![Dashboard](screenshots/dashboard.png)
+
 
 ---
 
