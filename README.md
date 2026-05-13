@@ -60,7 +60,7 @@ A modern Salesforce Lightning Web Component (LWC) solution for seamless event ma
 - Attendee detail form
 - QR generation preview
 
-![Registration Screen](screenshots/register.png)
+<img width="1900" height="742" alt="image" src="https://github.com/user-attachments/assets/e76603f3-0c76-43a8-a6ae-87d1ee373654" />
 
 ---
 
